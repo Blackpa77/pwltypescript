@@ -1,0 +1,27 @@
+{
+  "name": "pwltypescript",
+  "version": "1.0.0",
+  "description": "belajar memahami konsep dari dasar typescirpt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blackpa77/pwltypescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Blackpa77/pwltypescript/issues"
+  },
+  "homepage": "https://github.com/Blackpa77/pwltypescript#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
